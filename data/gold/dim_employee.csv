@@ -1,0 +1,6 @@
+EmployeeKey,EmployeeID,EmployeeName,Department,Position,ValidFrom,ValidTo,IsCurrent
+1,E001,John Smith,Sales,Sales Representative,2025-01-01,2026-02-28,False
+2,E001,John Smith,Marketing,Marketing Specialist,2026-03-01,,True
+3,E002,Laura Brown,Marketing,Marketing Specialist,2025-01-01,,True
+4,E003,David Wilson,Sales,Sales Manager,2025-01-01,,True
+5,E004,Sarah Johnson,Finance,Finance Analyst,2025-01-01,,True

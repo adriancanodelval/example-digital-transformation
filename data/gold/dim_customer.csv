@@ -1,0 +1,6 @@
+CustomerKey,CustomerID,CustomerName,Segment,Country
+1,C001,Acme Corp,Enterprise,Spain
+2,C002,Tech Solutions,SMB,Spain
+3,C003,Global Retail,Enterprise,France
+4,C004,Fast Logistics,SMB,Germany
+5,C005,Data Partners,Enterprise,Portugal

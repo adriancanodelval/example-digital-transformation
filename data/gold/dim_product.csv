@@ -1,0 +1,5 @@
+ProductKey,ProductID,ProductName,Category,Brand
+1,P001,Laptop Pro,Hardware,Contoso
+2,P002,Monitor 27,Hardware,Contoso
+3,P003,Keyboard,Accessories,Contoso
+4,P004,Consulting Services,Services,Contoso
